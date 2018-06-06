@@ -1,1 +1,7 @@
 Adelson teste
+
+Aula dia 06/06 exercicio 5
+-Criar uma branch hotfix01 e começar a trabalhar
+-Faça uma alteração no arquivo file02.txt
+-Dê um commit no arquivo
+-Evie a branch hotfix01 para o repositório remoto
